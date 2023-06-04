@@ -1,7 +1,7 @@
-package com.rakovets.course.java.core.practice.oop_principles.battleground.heroes;
+package com.rakovets.course.java.core.practice.xml.oop_principles.battleground.heroes;
 
-import com.rakovets.course.java.core.practice.oop_principles.battleground.enemies.Enemy;
-import com.rakovets.course.java.core.practice.oop_principles.battleground.Mortal;
+import com.rakovets.course.java.core.practice.xml.oop_principles.battleground.enemies.Enemy;
+import com.rakovets.course.java.core.practice.xml.oop_principles.battleground.Mortal;
 
 public class Mag extends Hero implements Mortal {
     public Mag(String name, int health) {

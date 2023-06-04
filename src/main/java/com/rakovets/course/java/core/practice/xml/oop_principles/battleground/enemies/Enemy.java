@@ -1,7 +1,7 @@
-package com.rakovets.course.java.core.practice.oop_principles.battleground.enemies;
+package com.rakovets.course.java.core.practice.xml.oop_principles.battleground.enemies;
 
-import com.rakovets.course.java.core.practice.oop_principles.battleground.Mortal;
-import com.rakovets.course.java.core.practice.oop_principles.battleground.heroes.Hero;
+import com.rakovets.course.java.core.practice.xml.oop_principles.battleground.Mortal;
+import com.rakovets.course.java.core.practice.xml.oop_principles.battleground.heroes.Hero;
 
 public class Enemy implements Mortal {
     private int health;

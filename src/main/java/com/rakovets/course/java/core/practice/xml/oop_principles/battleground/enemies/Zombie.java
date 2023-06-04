@@ -1,6 +1,6 @@
-package com.rakovets.course.java.core.practice.oop_principles.battleground.enemies;
+package com.rakovets.course.java.core.practice.xml.oop_principles.battleground.enemies;
 
-import com.rakovets.course.java.core.practice.oop_principles.battleground.heroes.Hero;
+import com.rakovets.course.java.core.practice.xml.oop_principles.battleground.heroes.Hero;
 
 public class Zombie extends Enemy {
     public Zombie(int health) {

@@ -1,7 +1,6 @@
 package com.rakovets.course.java.core.practice.oop_principles.battleground;
 
-import com.rakovets.course.java.core.practice.oop_principles.battleground.enemies.Enemy;
-import com.rakovets.course.java.core.practice.oop_principles.battleground.enemies.Zombie;
+import com.rakovets.course.java.core.practice.xml.oop_principles.battleground.enemies.Zombie;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

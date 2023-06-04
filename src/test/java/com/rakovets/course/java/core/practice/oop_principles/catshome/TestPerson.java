@@ -1,5 +1,6 @@
 package com.rakovets.course.java.core.practice.oop_principles.catshome;
 
+import com.rakovets.course.java.core.practice.xml.oop_principles.catshome.Person;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
